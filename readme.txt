@@ -1,0 +1,1 @@
+# it's learning how using django framework on the creting website "news"
